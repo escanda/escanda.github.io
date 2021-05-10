@@ -13,7 +13,8 @@ I am also really interested on some ancient technologies such as Lisps.
 
 I run a Software Consultancy named _Escanda Software OU_.
 
-You can find me on [twitter](twitter) as well as on [my company's website](escandacc).
+You can find me on [twitter][twitter] as well as on [my company's website][escandacc].
+
 
 [twitter]: https://twitter.com/escandacc
 [escandacc]: https://escanda.cc/
