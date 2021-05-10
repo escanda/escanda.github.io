@@ -17,7 +17,7 @@ title: escanda personal blog
 email: gcifuentes@escanda.cc
 description: > # this means to ignore newlines until "baseurl:"
   escanda is the internet pseudonymous for a software dev from Spain
-  specialized in custom developments and wishing _he_ contributed
+  specialized in custom developments and wishing he contributed
   to open source.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -26,7 +26,7 @@ github_username:  escanda
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
